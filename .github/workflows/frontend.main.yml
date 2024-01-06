@@ -4,6 +4,7 @@ name: deploy_frontend
 # Deploys when push is made from the frontend folder.
 
 on:
+  workflow_dispatch: {}
   push:
         branches: [main] 
         paths:
