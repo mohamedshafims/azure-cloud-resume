@@ -1,7 +1,7 @@
 #main.yml
 
 name: deploy_frontend
-# Deploys when push is made from the frontend folder
+# Deploys when push is made from the frontend folder.
 
 on:
   push:
