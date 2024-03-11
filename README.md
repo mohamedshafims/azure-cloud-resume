@@ -1,1 +1,1 @@
-# azure-cloud-resume
+Azure Cloud Resume (2024): The project involved developing and deploying a web application using various Azure services, such as Virtual Machines, Storage Accounts, Cosmos DB and Azure Functions. To ensure efficient development and deployment processes, Implemented Github Actions Workflow to deploy changes to Azure.
